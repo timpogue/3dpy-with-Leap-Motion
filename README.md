@@ -1,0 +1,4 @@
+3Dpy with Leap Motion
+=====================
+
+My 3Dpy module with an integrated leap motion listener class to control the movements of the wireframes with gestures. Please keep in mind that the listener class implements incredibly basic gestures to move the wireframes, like most of my modules I build this isn't a complete and gorgeous module. There is still a lot of work to be done. When using this module, please remember to have the required Leap Motion SDK files in the same directory as this. To use, run 3d.py. Using your Leap Motion, draw a circle clockwise or counter clock wise to rotate the beach ball. Swipe to the left or right to translate, and do a key tap gesture to rotate the beach ball down.
